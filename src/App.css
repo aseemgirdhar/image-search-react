@@ -1,0 +1,17 @@
+.App{
+ text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+input{
+  margin-bottom: 30px;
+}
+.img-wrapper {
+ display: flex;
+ align-items: center; 
+ flex-wrap: wrap;
+ gap: 10px
+}
+.img-wrapper img{
+  max-height: 200px;
+}
